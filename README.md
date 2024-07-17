@@ -13,5 +13,6 @@ This is just the initial phase for my project I would be implementing a lot in f
    - Type mismatches.
    - Buffer overflows.
 4. *Code Highlighting*: Highlight the part of the code where the error occurs.
+5. Thinking to implement a feature to provide the time complexity of the program.
 
 
